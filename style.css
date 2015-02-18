@@ -14,12 +14,8 @@ html, body {
     margin-top: -100px; 
     margin-left: -100px;
     
-      border-color: orange;
-  border-width: 2px;
-  border-style: solid;
-  border-radius: 50%;
   
-  box-shadow: 0 0 64px black;
+  box-shadow: 15px 15px 64px black;
 }
 
 #earth {
